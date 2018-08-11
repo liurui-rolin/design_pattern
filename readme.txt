@@ -8,7 +8,7 @@
 分类:
     创建型模式 共五种：工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式
         简单工厂模式 : youling.studio.creationtype.factory.simplefactory
-        单例模式 :
+        单例模式 : youling.studio.creationtype.singleton
     结构型模式 共七种：适配器模式、装饰器模式、代理模式、外观模式、桥接模式、组合模式、享元模式
         外观模式 : youling.studio.structuraltype.facade
         适配器模式 : youling.studio.structuraltype.adapter.adapter
